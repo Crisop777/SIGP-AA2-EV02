@@ -1,4 +1,1 @@
-URL DEL REPOSITORIO GITHUB
-
-Pendiente: después de crear un repositorio propio para este módulo SIGP, pega aquí su URL pública.
-No se ha inventado una URL porque todavía no se ha confirmado cuál será el repositorio de entrega.
+https://github.com/Crisop777/SIGP-AA2-EV02
